@@ -429,7 +429,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Mant%C4%B1k%20Devreleri) anonim şekilde oylamaya katılabilirsiniz.
+      - ✅ Dersi Kolay Geçer Miyim: ★☆☆☆☆☆☆☆☆☆
+      - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★☆☆☆☆☆☆☆☆☆
+        - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Mant%C4%B1k%20Devreleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mant%C4%B1k%20Devreleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
@@ -1609,7 +1611,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-106
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/buketb](https://avesis.marmara.edu.tr/buketb)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Buket%20Do%C4%9Fan) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - 👤 **_Ödev yapmamış biri_**: Ödev yapın ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
+    - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Buket%20Do%C4%9Fan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Algoritma ve Programlamaya Giriş](#-algoritma-ve-programlamaya-giriş) (2020-2021 → 2026-2027)
   - 📖 [Veritabanı Yönetim Sistemleri](#-veritabanı-yönetim-sistemleri) (2020-2021 → 2026-2027)
@@ -1660,7 +1663,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T2-104
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/abdulsamet.aktas](https://avesis.marmara.edu.tr/abdulsamet.aktas)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Abdulsamet%20Akta%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - 👤 **_Mutlu öğrenci_**: Dersi bayram tatiline denk gelmedi diye online yapıp yoklama almamıştı ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
+  - 👤 **_Sınava girmiş biri_**: Vize finalin yarısını test yarısını klasik sorar ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
+    - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Abdulsamet%20Akta%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İşletim Sistemleri](#-i̇şletim-sistemleri) (2025-2026 → 2026-2027)
   - 📖 [Biçimsel Diller ve Otomata Teorisi](#-biçimsel-diller-ve-otomata-teorisi) (2025-2026 → 2026-2027)
@@ -2002,7 +2007,8 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 🚪 **Ofis:** T4-217
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/adil.guler](https://avesis.marmara.edu.tr/adil.guler)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Adil%20G%C3%BCler) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - 👤 **_Fizik 2 ye girmiş biri_**: Sınıfın ortalaması 34 tü ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
+    - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Adil%20G%C3%BCler) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Fizik 1](#-fizik-1) (2024-2025)
   - 📖 [Lineer Cebir](#-lineer-cebir) (2023-2024 → 2024-2025)
